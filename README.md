@@ -1,3 +1,4 @@
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ykofugykmy0yrtmypr6ndlanmixw3swcwalkx1l2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" align="right" width="400">
 # 💫 About Me:
 🌱 Proficient in developing websites using the MERN Stack.<br><br>💻 Mastery in HTML, CSS, and JavaScript, enabling proficient website development.<br><br>🎨 Skilled in utilizing Tailwind and Bootstrap frameworks for creating visually appealing and responsive web designs.<br><br>🛠️ Extensive experience in crafting websites using WordPress and Shopify platforms.<br><br>📧 Experienced a humorous mishap by mistakenly sending an email to an incorrect address during work.<br><br>💬 Enjoy engaging in discussions related to technology and web development.<br><br>🚀 Committed to continuous learning and staying updated with the latest trends in the field.<br><br>📝 Open to collaborations and eager to contribute to innovative projects.
 
