@@ -1,4 +1,4 @@
-![logo](front.gif)
+![logo](code.gif)
 <h1 align="center">Hi 👋, I'm Hani Umar</h1>
 <h3 align="center">Expertise in every line, mastery in motion. Crafting flawless code, honed through experience.</h3>
 
