@@ -1,6 +1,6 @@
 ![logo](front.gif)
 <h1 align="center">Hi 👋, I'm Hani Umar</h1>
-<h3 align="center">A software engineering graduate with a deep passion for web development</h3>
+<h3 align="center">Expertise in every line, mastery in motion. Crafting flawless code, honed through experience.</h3>
 
 
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ykofugykmy0yrtmypr6ndlanmixw3swcwalkx1l2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" align="right" width="400">
